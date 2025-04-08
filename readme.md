@@ -1,5 +1,5 @@
 # Advent of Code 2022 - Day 1: Calorie Counting
-
+![Mi proyecto](assets/advent-of-code.jpeg)
 This repository contains the solution for **Day 1** of the **Advent of Code 2022** challenge, focusing on calorie counting for Santa's reindeer expedition. The challenge is about analyzing calorie inventories and determining which elves carry the most calories.
 
 ## Problem Description
